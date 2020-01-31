@@ -23,3 +23,6 @@ https://codinginflow.com/tutorials/android/retrofit/part-1-simple-get-request
 
 **5. RecyclerView using Kotlin** <br/>
 https://www.youtube.com/watch?v=Jo6Mtq7zkkg
+
+**Kotlin Extension Functions** <br/>
+https://www.youtube.com/watch?v=Ri9fCjPNzIg
