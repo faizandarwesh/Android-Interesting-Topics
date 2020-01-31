@@ -8,8 +8,15 @@ https://www.youtube.com/watch?v=IEO2X5OU3MY
 **2. Android Architecture:**
 A complete guide to Android Architecture MVVM + Repository pattern and Livedata 
  https://codinginflow.com/tutorials/android/room-viewmodel-livedata-recyclerview-mvvm/part-1-introduction
+ https://www.youtube.com/watch?v=ijXjCtCXcN4
 
-**2. Dagger Android:**
+**3. Dagger Android:**
 Dagger 2 is a dependency injection framework for Android that is developed by Google
 https://codinginflow.com/tutorials/android/dagger-2/part-1-introduction
 https://codingwithmitch.com/courses/dagger22-android/
+
+**4. Retrofit2:**
+https://codinginflow.com/tutorials/android/retrofit/part-1-simple-get-request
+
+**5. RecyclerView using Kotlin**
+https://www.youtube.com/watch?v=Jo6Mtq7zkkg
