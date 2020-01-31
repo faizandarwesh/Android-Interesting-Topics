@@ -1,6 +1,9 @@
 # Android-Interesting-Topics
 The topics that i found interesting and essential for Android Developers to learn
 
+**Android jetpack:** <br/>
+https://android-developers.googleblog.com/2018/05/use-android-jetpack-to-accelerate-your.html?m=1
+
 **1. Android Navigation Component:** <br/>
 A part of Android jetpack. The idea behind that is to implement the architecture prefered by Google Android
 https://www.youtube.com/watch?v=IEO2X5OU3MY
