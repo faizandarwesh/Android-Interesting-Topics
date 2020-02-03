@@ -30,5 +30,5 @@ https://www.youtube.com/watch?v=Jo6Mtq7zkkg
 **Kotlin Extension Functions** <br/>
 https://www.youtube.com/watch?v=Ri9fCjPNzIg
 
-**Synchornized vs Volatile** <br/>
+**Synchronized vs Volatile** <br/>
 https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2
