@@ -32,3 +32,6 @@ https://www.youtube.com/watch?v=Ri9fCjPNzIg
 
 **Synchronized vs Volatile** <br/>
 https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2
+
+**Understanding Background Processing(Threads etc)** <br/>
+https://medium.com/@julian_falcionelli/background-processing-in-android-575fd4ecf769
