@@ -38,5 +38,5 @@ https://medium.com/@julian_falcionelli/background-processing-in-android-575fd4ec
 https://medium.com/major-league/background-processing-in-android-part-2-88c73c24a2ac
 
 **Free API's Resources** <br/>
-https://developers.zomato.com/api#headline1
+https://developers.zomato.com/api#headline1 <br/>
 https://www.themoviedb.org/documentation/api/discover
