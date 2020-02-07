@@ -36,3 +36,7 @@ https://medium.com/google-developer-experts/on-properly-using-volatile-and-synch
 **Understanding Background Processing(Threads etc)** <br/>
 https://medium.com/@julian_falcionelli/background-processing-in-android-575fd4ecf769
 https://medium.com/major-league/background-processing-in-android-part-2-88c73c24a2ac
+
+**Free API's Resources** <br/>
+https://developers.zomato.com/api#headline1
+https://www.themoviedb.org/documentation/api/discover
