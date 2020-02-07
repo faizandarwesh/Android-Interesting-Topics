@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=Ri9fCjPNzIg
 https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2
 
 **Understanding Background Processing(Threads etc)** <br/>
-https://medium.com/@julian_falcionelli/background-processing-in-android-575fd4ecf769
+https://medium.com/@julian_falcionelli/background-processing-in-android-575fd4ecf769 <br/>
 https://medium.com/major-league/background-processing-in-android-part-2-88c73c24a2ac
 
 **Free API's Resources** <br/>
