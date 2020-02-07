@@ -37,6 +37,9 @@ https://medium.com/google-developer-experts/on-properly-using-volatile-and-synch
 https://medium.com/@julian_falcionelli/background-processing-in-android-575fd4ecf769 <br/>
 https://medium.com/major-league/background-processing-in-android-part-2-88c73c24a2ac
 
+**Android Design Pattern** <br/>
+https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotlin
+
 **Free API's Resources** <br/>
 https://developers.zomato.com/api#headline1 <br/>
 https://www.themoviedb.org/documentation/api/discover
