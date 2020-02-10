@@ -17,8 +17,8 @@ A complete guide to Android Architecture MVVM + Repository pattern and Livedata
  https://www.youtube.com/watch?v=ijXjCtCXcN4
 
 **3. Dagger Android:** <br/>
-Dagger 2 is a dependency injection framework for Android that is developed by Google
-https://codinginflow.com/tutorials/android/dagger-2/part-1-introduction
+Dagger 2 is a dependency injection framework for Android that is developed by Google <br/>
+https://codinginflow.com/tutorials/android/dagger-2/part-1-introduction <br/>
 https://codingwithmitch.com/courses/dagger22-android/
 
 **4. Retrofit2:** <br/>
