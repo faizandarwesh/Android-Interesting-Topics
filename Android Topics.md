@@ -45,4 +45,5 @@ https://developers.zomato.com/api#headline1 <br/>
 https://www.themoviedb.org/documentation/api/discover
 
 **Room related blog** <br/>
+https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2
 https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1#5e38
