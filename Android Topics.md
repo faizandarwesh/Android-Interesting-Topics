@@ -43,3 +43,6 @@ https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotlin
 **Free API's Resources** <br/>
 https://developers.zomato.com/api#headline1 <br/>
 https://www.themoviedb.org/documentation/api/discover
+
+**Room related blog** <br/>
+https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1#5e38
