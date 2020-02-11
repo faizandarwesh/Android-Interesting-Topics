@@ -7,7 +7,7 @@ https://android-developers.googleblog.com/2018/05/use-android-jetpack-to-acceler
 **Kotlin Tutorials:** <br/>
 https://www.programiz.com/kotlin-programming
 
-**1. Android Navigation Component:** <br/>
+**Android Navigation Component:** <br/>
 A part of Android jetpack. The idea behind that is to implement the architecture prefered by Google Android
 https://www.youtube.com/watch?v=IEO2X5OU3MY
 
@@ -16,7 +16,7 @@ A complete guide to Android Architecture MVVM + Repository pattern and Livedata
  https://codinginflow.com/tutorials/android/room-viewmodel-livedata-recyclerview-mvvm/part-1-introduction
  https://www.youtube.com/watch?v=ijXjCtCXcN4
 
-**3. Dagger Android:** <br/>
+**Dagger Android:** <br/>
 Dagger 2 is a dependency injection framework for Android that is developed by Google <br/>
 https://codinginflow.com/tutorials/android/dagger-2/part-1-introduction <br/>
 https://codingwithmitch.com/courses/dagger22-android/
