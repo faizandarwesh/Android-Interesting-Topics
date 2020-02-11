@@ -11,7 +11,7 @@ https://www.programiz.com/kotlin-programming
 A part of Android jetpack. The idea behind that is to implement the architecture prefered by Google Android
 https://www.youtube.com/watch?v=IEO2X5OU3MY
 
-**2. Android Architecture:** <br/>
+**Android Architecture:** <br/>
 A complete guide to Android Architecture MVVM + Repository pattern and Livedata 
  https://codinginflow.com/tutorials/android/room-viewmodel-livedata-recyclerview-mvvm/part-1-introduction
  https://www.youtube.com/watch?v=ijXjCtCXcN4
