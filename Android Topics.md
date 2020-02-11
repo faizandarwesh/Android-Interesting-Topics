@@ -51,5 +51,5 @@ https://medium.com/androiddevelopers/31daysofkotlin-week-3-recap-20b20ca9e205
 https://medium.com/androiddevelopers/31daysofkotlin-week-4-recap-d820089f8090
 
 **Room related blogs** <br/>
-https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2
+https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2 <br/>
 https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1#5e38
