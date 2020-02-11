@@ -21,10 +21,10 @@ Dagger 2 is a dependency injection framework for Android that is developed by Go
 https://codinginflow.com/tutorials/android/dagger-2/part-1-introduction <br/>
 https://codingwithmitch.com/courses/dagger22-android/
 
-**4. Retrofit2:** <br/>
+**Retrofit2:** <br/>
 https://codinginflow.com/tutorials/android/retrofit/part-1-simple-get-request
 
-**5. RecyclerView using Kotlin** <br/>
+**RecyclerView using Kotlin** <br/>
 https://www.youtube.com/watch?v=Jo6Mtq7zkkg
 
 **Kotlin Extension Functions** <br/>
