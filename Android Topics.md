@@ -53,3 +53,6 @@ https://medium.com/androiddevelopers/31daysofkotlin-week-4-recap-d820089f8090
 **Room related blogs** <br/>
 https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2 <br/>
 https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1#5e38
+
+**References in Android and Memory leaks** <br/>
+https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83 <br/>
