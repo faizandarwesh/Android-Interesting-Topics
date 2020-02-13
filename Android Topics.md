@@ -16,7 +16,7 @@ A complete guide to Android Architecture MVVM + Repository pattern and Livedata
  https://codinginflow.com/tutorials/android/room-viewmodel-livedata-recyclerview-mvvm/part-1-introduction
  https://www.youtube.com/watch?v=ijXjCtCXcN4
 
-**Kotlin Coroutiners** <br/>
+**Kotlin Coroutines** <br/>
 https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb <br/>
 https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide
 
