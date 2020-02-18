@@ -1,6 +1,9 @@
 # Android-Interesting-Topics
 The topics that i found interesting and essential for Android Developers to learn
 
+**Pathway for Professional Adndroid Developer** <br/>
+https://github.com/mobile-roadmap/android-developer-roadmap
+
 **Advanced Android Medium Blog:** <br/>
 https://proandroiddev.com/android-architecture-starring-kotlin-coroutines-jetpack-mvvm-room-paging-retrofit-and-dagger-7749b2bae5f7
 
