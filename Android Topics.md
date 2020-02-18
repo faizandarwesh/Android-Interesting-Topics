@@ -1,7 +1,7 @@
 # Android-Interesting-Topics
 The topics that i found interesting and essential for Android Developers to learn
 
-**Pathway for Professional Adndroid Developer** <br/>
+**Pathway for Professional Android Developer** <br/>
 https://github.com/mobile-roadmap/android-developer-roadmap
 
 **Advanced Android Medium Blog:** <br/>
