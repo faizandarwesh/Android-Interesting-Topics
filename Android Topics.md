@@ -1,6 +1,9 @@
 # Android-Interesting-Topics
 The topics that i found interesting and essential for Android Developers to learn
 
+**Advanced Android Medium Blog:** <br/>
+https://proandroiddev.com/android-architecture-starring-kotlin-coroutines-jetpack-mvvm-room-paging-retrofit-and-dagger-7749b2bae5f7
+
 **Android jetpack:** <br/>
 https://android-developers.googleblog.com/2018/05/use-android-jetpack-to-accelerate-your.html?m=1
 
