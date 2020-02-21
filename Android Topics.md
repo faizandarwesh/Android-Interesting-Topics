@@ -67,3 +67,6 @@ https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1#5e38
 **References in Android and Memory leaks** <br/>
 https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83 <br/>
 https://stackify.com/java-heap-vs-stack/
+
+**View Binding Android** <br/>
+https://medium.com/androiddevelopers/use-view-binding-to-replace-findviewbyid-c83942471fc
