@@ -70,3 +70,7 @@ https://stackify.com/java-heap-vs-stack/
 
 **View Binding Android** <br/>
 https://medium.com/androiddevelopers/use-view-binding-to-replace-findviewbyid-c83942471fc
+
+**Encrypted Shared Preference** <br/>
+https://medium.com/@ali.muzaffar/securing-sharedpreferences-in-android-a21883a9cbf8<br/>
+https://proandroiddev.com/encrypted-preferences-in-android-af57a89af7c8
