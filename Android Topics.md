@@ -74,3 +74,6 @@ https://medium.com/androiddevelopers/use-view-binding-to-replace-findviewbyid-c8
 **Encrypted Shared Preference** <br/>
 https://medium.com/@ali.muzaffar/securing-sharedpreferences-in-android-a21883a9cbf8<br/>
 https://proandroiddev.com/encrypted-preferences-in-android-af57a89af7c8
+
+**Material Motion Medium Blog* <br/>
+https://medium.com/google-design/implementing-motion-9f2839002016
