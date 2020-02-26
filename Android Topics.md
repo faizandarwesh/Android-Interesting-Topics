@@ -3,6 +3,7 @@ The topics that i found interesting and essential for Android Developers to lear
 
 **Pathway for Professional Android Developer** <br/>
 https://github.com/mobile-roadmap/android-developer-roadmap
+ https://classroom.udacity.com/courses/ud9012
 
 **Advanced Android Medium Blog:** <br/>
 https://proandroiddev.com/android-architecture-starring-kotlin-coroutines-jetpack-mvvm-room-paging-retrofit-and-dagger-7749b2bae5f7
