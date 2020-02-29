@@ -2,7 +2,7 @@
 The topics that i found interesting and essential for Android Developers to learn
 
 **Pathway for Professional Android Developer** <br/>
-https://github.com/mobile-roadmap/android-developer-roadmap
+https://github.com/mobile-roadmap/android-developer-roadmap<br/>
  https://classroom.udacity.com/courses/ud9012
 
 **Advanced Android Medium Blog:** <br/>
