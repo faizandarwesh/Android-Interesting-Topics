@@ -69,8 +69,9 @@ https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1#5e38
 https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83 <br/>
 https://stackify.com/java-heap-vs-stack/
 
-**View Binding Android** <br/>
-https://medium.com/androiddevelopers/use-view-binding-to-replace-findviewbyid-c83942471fc
+**View & Data Binding Android** <br/>
+https://medium.com/androiddevelopers/use-view-binding-to-replace-findviewbyid-c83942471fc <br/>
+https://medium.com/@temidjoy/android-jetpack-empower-your-ui-with-android-data-binding-94a657cb6be1
 
 **Encrypted Shared Preference** <br/>
 https://medium.com/@ali.muzaffar/securing-sharedpreferences-in-android-a21883a9cbf8<br/>
