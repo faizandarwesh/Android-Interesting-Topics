@@ -76,7 +76,9 @@ https://medium.com/androiddevelopers/data-binding-lessons-learnt-4fd16576b719
 
 **Encrypted Shared Preference** <br/>
 https://medium.com/@ali.muzaffar/securing-sharedpreferences-in-android-a21883a9cbf8<br/>
-https://proandroiddev.com/encrypted-preferences-in-android-af57a89af7c8
+https://proandroiddev.com/encrypted-preferences-in-android-af57a89af7c8 <br/>
+https://blogs.naxam.net/sharedpreferences-made-easy-with-kotlin-generics-extensions-6189d8902fb0
 
 **Material Motion Medium Blog** <br/>
 https://medium.com/google-design/implementing-motion-9f2839002016
+
