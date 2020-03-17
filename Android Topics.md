@@ -84,3 +84,8 @@ https://medium.com/google-design/implementing-motion-9f2839002016
 
 **Scope Functions Medium Blog** <br/>
 https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84
+
+**Android Chat App related** <br/>
+https://socket.io/blog/native-socket-io-and-android/<br/>
+https://blog.sendbird.com/android-chat-tutorial-building-a-messaging-ui/
+
