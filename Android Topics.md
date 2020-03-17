@@ -82,3 +82,5 @@ https://blogs.naxam.net/sharedpreferences-made-easy-with-kotlin-generics-extensi
 **Material Motion Medium Blog** <br/>
 https://medium.com/google-design/implementing-motion-9f2839002016
 
+**Scope Functions Medium Blog** <br/>
+https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84
