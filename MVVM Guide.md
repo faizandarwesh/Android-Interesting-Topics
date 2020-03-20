@@ -2,7 +2,7 @@
 
 **Retrofit Cilent**
 
- object RetrofitClient {
+    object RetrofitClient {
     val instance : WebService by lazy {
         val retrofit = Retrofit.Builder()
             .baseUrl(Constants.BASE_DOMAIN_2)
@@ -11,6 +11,9 @@
         return@lazy retrofit.create(WebService::class.java)
     }
     }
+    
+    <br/>
+   <br/>
     <br/>
    **Webservice**
     
@@ -41,7 +44,8 @@
 }
 
 **Fragment / Activity Class**
-class SelectFragment : Fragment(R.layout.fragment_select) {
+    
+    class SelectFragment : Fragment(R.layout.fragment_select) {
 
     private lateinit var progress: ProgressBar
     private lateinit var viewModel: PerksViewModel
@@ -107,7 +111,7 @@ class SelectFragment : Fragment(R.layout.fragment_select) {
 
 **Adapter Class**
 
-class PerksAdapter(private val onClick:(objDatum:PerksDatum) -> Unit) : RecyclerView.Adapter<PerksAdapter.PerksViewholder>() {
+    class PerksAdapter(private val onClick:(objDatum:PerksDatum) -> Unit) : RecyclerView.Adapter<PerksAdapter.PerksViewholder>() {
     private var dataList :ArrayList<PerksDatum>? = arrayListOf()
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PerksViewholder {
