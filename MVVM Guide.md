@@ -11,7 +11,8 @@
         return@lazy retrofit.create(WebService::class.java)
     }
     }
-   ** Webservice **
+    <br/>
+   **Webservice**
     
     interface WebService {
 
@@ -19,7 +20,7 @@
     suspend fun getPerks(): Perks 
     }
     
-   ** View Model**
+   **View Model**
     
     class UserViewModel : ViewModel() {
 
