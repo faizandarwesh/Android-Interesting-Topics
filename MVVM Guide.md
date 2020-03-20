@@ -2,21 +2,22 @@
 
 **Retrofit Cilent**
 
-``` object RetrofitClient {
+ object RetrofitClient {
     val instance : WebService by lazy {
         val retrofit = Retrofit.Builder()
             .baseUrl(Constants.BASE_DOMAIN_2)
             .addConverterFactory(GsonConverterFactory.create())
             .build()
         return@lazy retrofit.create(WebService::class.java)
-    }```
-    
+    }
+    }
    ** Webservice **
     
     interface WebService {
 
     @GET("wp-json/tob_event/v4/perks?api_key=${Constants.API_KEY}")
-    suspend fun getPerks(): Perks
+    suspend fun getPerks(): Perks 
+    }
     
    ** View Model**
     
@@ -104,18 +105,6 @@ class SelectFragment : Fragment(R.layout.fragment_select) {
 }
 
 **Adapter Class**
-
-package com.example.tasteofblue.adapters
-
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
-import android.widget.ImageView
-import android.widget.TextView
-import androidx.recyclerview.widget.RecyclerView
-import com.bumptech.glide.Glide
-import com.example.tasteofblue.R
-import com.example.tasteofblue.models.PerksDatum
 
 class PerksAdapter(private val onClick:(objDatum:PerksDatum) -> Unit) : RecyclerView.Adapter<PerksAdapter.PerksViewholder>() {
     private var dataList :ArrayList<PerksDatum>? = arrayListOf()
