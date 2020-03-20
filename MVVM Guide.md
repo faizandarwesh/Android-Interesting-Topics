@@ -103,3 +103,57 @@ class SelectFragment : Fragment(R.layout.fragment_select) {
     }
 
 }
+
+Adapter Class
+package com.example.tasteofblue.adapters
+
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import android.widget.ImageView
+import android.widget.TextView
+import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
+import com.example.tasteofblue.R
+import com.example.tasteofblue.models.PerksDatum
+
+class PerksAdapter(private val onClick:(objDatum:PerksDatum) -> Unit) : RecyclerView.Adapter<PerksAdapter.PerksViewholder>() {
+    private var dataList :ArrayList<PerksDatum>? = arrayListOf()
+
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PerksViewholder {
+        val layoutInflater =  LayoutInflater.from(parent.context)
+            .inflate(R.layout.select_design,parent,false)
+        return PerksViewholder(layoutInflater)
+    }
+
+    override fun getItemCount(): Int {
+       return dataList?.size ?: 0
+    }
+
+    override fun onBindViewHolder(holder: PerksViewholder, position: Int) {
+        holder.bind(position)
+        holder.itemView.setOnClickListener {
+            onClick(dataList!![position])
+        }
+    }
+
+    fun addList(list:ArrayList<PerksDatum>?){
+        dataList = list
+        notifyDataSetChanged()
+    }
+
+    inner class PerksViewholder(itemView: View) : RecyclerView.ViewHolder(itemView){
+        private val perksImage: ImageView = itemView.findViewById(R.id.perk_image)
+        private val perksTitle:TextView = itemView.findViewById(R.id.perks_title)
+        private val perksDescription:TextView = itemView.findViewById(R.id.perks_description)
+
+        fun bind(position:Int){
+            val list =  dataList!![position]
+            perksTitle.text = list.title
+            perksDescription.text = list.excerpt
+            Glide.with(itemView.context).load(list.image).into(perksImage)
+        }
+    }
+
+}
+
