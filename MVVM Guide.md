@@ -2,15 +2,14 @@
 
 **Retrofit Cilent**
 
-object RetrofitClient {
+``` object RetrofitClient {
     val instance : WebService by lazy {
         val retrofit = Retrofit.Builder()
             .baseUrl(Constants.BASE_DOMAIN_2)
             .addConverterFactory(GsonConverterFactory.create())
             .build()
-
         return@lazy retrofit.create(WebService::class.java)
-    }
+    }```
     
    ** Webservice **
     
