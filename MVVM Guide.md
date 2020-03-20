@@ -1,6 +1,6 @@
-MVVM Guide:
+**MVVM Guide:**
 
-Retrofit Cilent
+**Retrofit Cilent**
 
 object RetrofitClient {
     val instance : WebService by lazy {
@@ -12,14 +12,14 @@ object RetrofitClient {
         return@lazy retrofit.create(WebService::class.java)
     }
     
-    Webservice 
+   ** Webservice **
     
     interface WebService {
 
     @GET("wp-json/tob_event/v4/perks?api_key=${Constants.API_KEY}")
     suspend fun getPerks(): Perks
     
-    View Model
+   ** View Model**
     
     class UserViewModel : ViewModel() {
 
@@ -39,7 +39,7 @@ object RetrofitClient {
     }
 }
 
-Fragment / Activity Class
+**Fragment / Activity Class**
 class SelectFragment : Fragment(R.layout.fragment_select) {
 
     private lateinit var progress: ProgressBar
@@ -104,7 +104,8 @@ class SelectFragment : Fragment(R.layout.fragment_select) {
 
 }
 
-Adapter Class
+**Adapter Class**
+
 package com.example.tasteofblue.adapters
 
 import android.view.LayoutInflater
