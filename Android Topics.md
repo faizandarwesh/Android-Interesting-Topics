@@ -93,4 +93,5 @@ https://blog.sendbird.com/android-chat-tutorial-building-a-messaging-ui/
 **Android Maps (Get Current Location + Places API)** <br/>
 https://medium.com/skillhive/android-google-places-autocomplete-feature-bb3064308f05 <br/>
  https://stackoverflow.com/questions/19353255/how-to-put-google-maps-v2-on-a-fragment-using-viewpager
+ https://medium.com/@droidbyme/get-current-location-using-fusedlocationproviderclient-in-android-cb7ebf5ab88e
 
