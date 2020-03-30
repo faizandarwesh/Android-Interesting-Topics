@@ -22,9 +22,11 @@ https://www.youtube.com/watch?v=IEO2X5OU3MY
 **Android Architecture:** <br/>
 A complete guide to Android Architecture MVVM + Repository pattern and Livedata 
  https://codinginflow.com/tutorials/android/room-viewmodel-livedata-recyclerview-mvvm/part-1-introduction
+ https://www.youtube.com/watch?v=2h-vuXC0SF8
  https://www.youtube.com/watch?v=ijXjCtCXcN4
 
 **Kotlin Coroutines** <br/>
+https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0
 https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb <br/>
 https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide
 
