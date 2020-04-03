@@ -76,7 +76,8 @@ https://stackify.com/java-heap-vs-stack/
 **View & Data Binding Android** <br/>
 https://medium.com/androiddevelopers/use-view-binding-to-replace-findviewbyid-c83942471fc <br/>
 https://medium.com/androiddevelopers/android-data-binding-library-from-observable-fields-to-livedata-in-two-steps-690a384218f2 <br/>
-https://medium.com/androiddevelopers/data-binding-lessons-learnt-4fd16576b719
+https://medium.com/androiddevelopers/data-binding-lessons-learnt-4fd16576b719 <br/>
+https://android.jlelse.eu/evolution-of-finding-views-android-98b8ef5b9249
 
 **Encrypted Shared Preference** <br/>
 https://medium.com/@ali.muzaffar/securing-sharedpreferences-in-android-a21883a9cbf8<br/>
