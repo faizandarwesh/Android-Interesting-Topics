@@ -99,3 +99,5 @@ https://medium.com/skillhive/android-google-places-autocomplete-feature-bb306430
  https://stackoverflow.com/questions/19353255/how-to-put-google-maps-v2-on-a-fragment-using-viewpager
  https://medium.com/@droidbyme/get-current-location-using-fusedlocationproviderclient-in-android-cb7ebf5ab88e
 
+**COIL (Best Image Loading Library for Android)** <br/>
+https://coil-kt.github.io/coil/getting_started/
