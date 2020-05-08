@@ -24,9 +24,8 @@
     }
     
    **View Model**
-    
+  
   class PerksViewModel : ViewModel() {
-
     private var _perksList = MutableLiveData<Perks>()
     val perksList: LiveData<Perks>
         get() = _perksList
@@ -121,7 +120,7 @@ class PerksAdapter(private val onClick: (objDatum: PerksDatum) -> Unit) :
         PerksDiffUtilCallback()
     ) {
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PerksViewholder {
+   override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PerksViewholder {
         val layoutInflater = LayoutInflater.from(parent.context)
             .inflate(R.layout.select_design, parent, false)
         return PerksViewholder(layoutInflater)
