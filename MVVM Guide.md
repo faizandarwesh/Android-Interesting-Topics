@@ -25,7 +25,7 @@
     
    **View Model** 
   
-  class PerksViewModel : ViewModel() {
+ ``` class PerksViewModel : ViewModel() {
     
     private var _perksList = MutableLiveData<Perks>()
     val perksList: LiveData<Perks>
@@ -47,6 +47,7 @@
         }
     }
 }
+```
 
 **Fragment / Activity Class**
     
@@ -158,6 +159,7 @@ override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PerksViewhold
         }
 
     }
-} ```
+} 
+```
 
 
