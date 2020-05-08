@@ -19,23 +19,28 @@
     
     interface WebService {
 
-    @GET("wp-json/tob_event/v4/perks?api_key=${Constants.API_KEY}")
+    @GET("Your URL")
     suspend fun getPerks(): Perks 
     }
     
    **View Model**
     
-    class UserViewModel : ViewModel() {
+  class PerksViewModel : ViewModel() {
 
-    private var _userData = MutableLiveData<User>()
-    val userData: LiveData<User>
-        get() = _userData
+    private var _perksList = MutableLiveData<Perks>()
+    val perksList: LiveData<Perks>
+        get() = _perksList
 
-    fun checkRegisteredUser(email: String) {
+    init {
+        fetchPerks()
+    }
+
+    private fun fetchPerks() {
         viewModelScope.launch {
             try {
-                val data = RetrofitClient.instance2.validateUser(email)
-                _userData.value = data
+                val data = RetrofitClient.instance.getPerks()
+                _perksList.value = data
+
             } catch (e: Exception) {
                 Timber.e(e)
             }
@@ -111,43 +116,48 @@
 
 **Adapter Class**
 
-    class PerksAdapter(private val onClick:(objDatum:PerksDatum) -> Unit) : RecyclerView.Adapter<PerksAdapter.PerksViewholder>() {
-    private var dataList :ArrayList<PerksDatum>? = arrayListOf()
+class PerksAdapter(private val onClick: (objDatum: PerksDatum) -> Unit) :
+    ListAdapter<PerksDatum, PerksAdapter.PerksViewholder>(
+        PerksDiffUtilCallback()
+    ) {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PerksViewholder {
-        val layoutInflater =  LayoutInflater.from(parent.context)
-            .inflate(R.layout.select_design,parent,false)
+        val layoutInflater = LayoutInflater.from(parent.context)
+            .inflate(R.layout.select_design, parent, false)
         return PerksViewholder(layoutInflater)
-    }
-
-    override fun getItemCount(): Int {
-       return dataList?.size ?: 0
     }
 
     override fun onBindViewHolder(holder: PerksViewholder, position: Int) {
         holder.bind(position)
         holder.itemView.setOnClickListener {
-            onClick(dataList!![position])
+            onClick(getItem(position))
         }
     }
 
-    fun addList(list:ArrayList<PerksDatum>?){
-        dataList = list
-        notifyDataSetChanged()
-    }
-
-    inner class PerksViewholder(itemView: View) : RecyclerView.ViewHolder(itemView){
+    inner class PerksViewholder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         private val perksImage: ImageView = itemView.findViewById(R.id.perk_image)
-        private val perksTitle:TextView = itemView.findViewById(R.id.perks_title)
-        private val perksDescription:TextView = itemView.findViewById(R.id.perks_description)
+        private val perksTitle: TextView = itemView.findViewById(R.id.perks_title)
+        private val perksDescription: TextView = itemView.findViewById(R.id.perks_description)
 
-        fun bind(position:Int){
-            val list =  dataList!![position]
+        fun bind(position: Int) {
+            val list = getItem(position)
             perksTitle.text = list.title
             perksDescription.text = list.excerpt
             Glide.with(itemView.context).load(list.image).into(perksImage)
+           // perksImage.load(list.image)
         }
     }
 
+    class PerksDiffUtilCallback : DiffUtil.ItemCallback<PerksDatum>() {
+        override fun areItemsTheSame(oldItem: PerksDatum, newItem: PerksDatum): Boolean {
+            return oldItem.id == newItem.id
+        }
+
+        override fun areContentsTheSame(oldItem: PerksDatum, newItem: PerksDatum): Boolean {
+            return oldItem == newItem
+        }
+
+    }
+}
 
 
