@@ -102,6 +102,12 @@ https://medium.com/skillhive/android-google-places-autocomplete-feature-bb306430
 **COIL (Best Image Loading Library for Android)** <br/>
 https://coil-kt.github.io/coil/getting_started/
 
+**Android Codelabs** <br/>
+https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0 <br/>
+https://codelabs.developers.google.com/codelabs/android-navigation/#0 <br/>
+https://codelabs.developers.google.com/codelabs/android-databinding/#0
+
+
 **Android Testing related stuff** <br/>
 https://www.youtube.com/watch?v=gJPclNjOwP8<br/>
 https://codingwithmitch.com/courses/ui-testing-for-beginners/demo/
