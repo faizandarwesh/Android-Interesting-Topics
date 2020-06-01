@@ -10,6 +10,7 @@ https://github.com/mobile-roadmap/android-developer-roadmap<br/>
 https://proandroiddev.com/android-architecture-starring-kotlin-coroutines-jetpack-mvvm-room-paging-retrofit-and-dagger-7749b2bae5f7
 
 **Android jetpack:** <br/>
+https://www.youtube.com/watch?v=2h-vuXC0SF8&t=152s <br/>
 https://android-developers.googleblog.com/2018/05/use-android-jetpack-to-accelerate-your.html?m=1
 
 **Kotlin Tutorials:** <br/>
@@ -17,7 +18,9 @@ https://www.programiz.com/kotlin-programming
 
 **Android Navigation Component:** <br/>
 A part of Android jetpack. The idea behind that is to implement the architecture prefered by Google Android
-https://www.youtube.com/watch?v=IEO2X5OU3MY
+https://www.youtube.com/watch?v=IEO2X5OU3MY <br/>
+https://codelabs.developers.google.com/codelabs/android-navigation/#8 <br/>
+https://developer.android.com/guide/navigation/navigation-nested-graphs
 
 **Android Architecture:** <br/>
 A complete guide to Android Architecture MVVM + Repository pattern and Livedata 
