@@ -108,8 +108,12 @@ https://coil-kt.github.io/coil/getting_started/
 **Android Codelabs** <br/>
 https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0 <br/>
 https://codelabs.developers.google.com/codelabs/android-navigation/#0 <br/>
-https://codelabs.developers.google.com/codelabs/android-databinding/#0
+https://codelabs.developers.google.com/codelabs/android-databinding/#0 <br/>
+https://codelabs.developers.google.com/codelabs/motion-layout/#0
 
+**Motion Layout** <br/>
+https://www.youtube.com/watch?v=mR7TqG2gVJs<br/>
+https://riggaroo.dev/getting-started-with-the-motion-editor-in-android-studio-4-0/
 
 **Android Testing related stuff** <br/>
 https://www.youtube.com/watch?v=gJPclNjOwP8<br/>
