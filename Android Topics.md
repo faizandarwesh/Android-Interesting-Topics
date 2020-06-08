@@ -25,6 +25,7 @@ https://developer.android.com/guide/navigation/navigation-nested-graphs
 **Android Architecture:** <br/>
 A complete guide to Android Architecture MVVM + Repository pattern and Livedata 
  https://codinginflow.com/tutorials/android/room-viewmodel-livedata-recyclerview-mvvm/part-1-introduction <br/>
+ https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide
  https://www.youtube.com/watch?v=2h-vuXC0SF8 <br/>
  https://www.youtube.com/watch?v=ijXjCtCXcN4
 
@@ -114,6 +115,11 @@ https://codelabs.developers.google.com/codelabs/motion-layout/#0
 **Motion Layout** <br/>
 https://www.youtube.com/watch?v=mR7TqG2gVJs<br/>
 https://riggaroo.dev/getting-started-with-the-motion-editor-in-android-studio-4-0/
+
+**Shared Viewmodel and Viewmodel Factory** <br/>
+https://blog.mindorks.com/shared-viewmodel-in-android-shared-between-fragments<br/>
+https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide<br/>
+
 
 **Android Testing related stuff** <br/>
 https://www.youtube.com/watch?v=gJPclNjOwP8<br/>
