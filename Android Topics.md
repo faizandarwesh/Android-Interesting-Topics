@@ -110,7 +110,11 @@ https://coil-kt.github.io/coil/getting_started/
 https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0 <br/>
 https://codelabs.developers.google.com/codelabs/android-navigation/#0 <br/>
 https://codelabs.developers.google.com/codelabs/android-databinding/#0 <br/>
-https://codelabs.developers.google.com/codelabs/motion-layout/#0
+https://codelabs.developers.google.com/codelabs/motion-layout/#0 <br/>
+https://codelabs.developers.google.com/codelabs/android-paging/#0
+
+**Gradle** <br/>
+https://blog.mindorks.com/gradle-for-android-developers-getting-the-most-of-it?fbclid=IwAR0bfmBEkrLq9zTNvI-v9n3VTIsdGni5BSMWOu8agGVMKknFkvWVYPLFYdw
 
 **Motion Layout** <br/>
 https://www.youtube.com/watch?v=mR7TqG2gVJs<br/>
