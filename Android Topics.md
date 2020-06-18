@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=IEO2X5OU3MY <br/>
 https://codelabs.developers.google.com/codelabs/android-navigation/#8 <br/>
 https://developer.android.com/guide/navigation/navigation-nested-graphs
 
-**Android Architecture:** <br/>
+**Android MVVM Architecture:** <br/>
 A complete guide to Android Architecture MVVM + Repository pattern and Livedata 
  https://codinginflow.com/tutorials/android/room-viewmodel-livedata-recyclerview-mvvm/part-1-introduction <br/>
  https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide
