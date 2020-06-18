@@ -28,6 +28,12 @@ A complete guide to Android Architecture MVVM + Repository pattern and Livedata
  https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide
  https://www.youtube.com/watch?v=2h-vuXC0SF8 <br/>
  https://www.youtube.com/watch?v=ijXjCtCXcN4
+ 
+ **Android MVI Architecture:** <br/>
+ https://blog.mindorks.com/mvi-architecture-android-tutorial-for-beginners-step-by-step-guide <br/>
+ 
+ **Dagger HILT:** <br/>
+https://blog.mindorks.com/dagger-hilt-tutorial <br/>
 
 **Kotlin Coroutines** <br/>
 https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0 <br/>
