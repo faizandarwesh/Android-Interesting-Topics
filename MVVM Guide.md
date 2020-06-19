@@ -23,8 +23,9 @@
   
    **ViewModelFactory**
     
+```
     @Suppress("UNCHECKED_CAST")
-```class PerksViewModelFactory(private val apiHelper: WebService) : ViewModelProvider.Factory {
+    class PerksViewModelFactory(private val apiHelper: WebService) : ViewModelProvider.Factory {
 
     override fun <T : ViewModel?> create(modelClass: Class<T>): T {
         if (modelClass.isAssignableFrom(PerksViewModel::class.java)) {
@@ -64,12 +65,12 @@
 
  **Repository** 
   
- ``` class PerksRepository(private val apiHelper : Webservice) {
-    
-    suspend fun fetchPerks() : Perks {
-        return apiHelper.getPerks()
-      
+ ``` 
+ class PerksRepository(private val apiHelper : Webservice) {
+       suspend fun fetchPerks() : Perks {
+        return apiHelper.getPerks() 
       }
+      
 ```
 
 
