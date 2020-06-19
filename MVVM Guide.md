@@ -10,10 +10,8 @@
             .build()
         return@lazy retrofit.create(WebService::class.java)
     }
-    }
-    
+   }
    
-  
   
    **Web Service**
     
@@ -22,10 +20,25 @@
     @GET("Your URL")
     suspend fun getPerks(): Perks 
     }
+  
+   **ViewModelFactory**
     
+    @Suppress("UNCHECKED_CAST")
+```class PerksViewModelFactory(private val apiHelper: WebService) : ViewModelProvider.Factory {
+
+    override fun <T : ViewModel?> create(modelClass: Class<T>): T {
+        if (modelClass.isAssignableFrom(PerksViewModel::class.java)) {
+            return PerksViewModel(PerksRepository(apiHelper)) as T
+        }
+        throw IllegalArgumentException("Unknown class name")
+    }
+} 
+```
+
    **View Model** 
   
- ``` class PerksViewModel : ViewModel() {
+ ```
+ class PerksViewModel(private val repository: PerksRepository) : ViewModel() {
     
     private var _perksList = MutableLiveData<Perks>()
     val perksList: LiveData<Perks>
@@ -38,8 +51,8 @@
     private fun fetchPerks() {
         viewModelScope.launch {
             try {
-                val data = RetrofitClient.instance.getPerks()
-                _perksList.value = data
+               _perksList.value = repository.getPerks()
+               
 
             } catch (e: Exception) {
                 Timber.e(e)
@@ -48,6 +61,17 @@
     }
 }
 ```
+
+ **Repository** 
+  
+ ``` class PerksRepository(private val apiHelper : Webservice) {
+    
+    suspend fun fetchPerks() : Perks {
+        return apiHelper.getPerks()
+      
+      }
+```
+
 
 **Fragment / Activity Class**
     
@@ -70,8 +94,12 @@
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        viewModel = ViewModelProvider(this).get(PerksViewModel::class.java)
+        setupViewModel()
         init(view)
+    }
+    
+    private fun setupViewModel(){
+    viewModel = ViewModelProvider(this,PerksViewModelFactory(RetrofitCilent.instance)).get(PerksViewModel::class.java)
     }
 
     private fun init(view: View) {
