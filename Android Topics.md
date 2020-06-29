@@ -13,6 +13,10 @@ https://proandroiddev.com/android-architecture-starring-kotlin-coroutines-jetpac
 https://www.youtube.com/watch?v=2h-vuXC0SF8&t=152s <br/>
 https://android-developers.googleblog.com/2018/05/use-android-jetpack-to-accelerate-your.html?m=1
 
+**Jetpack Compose:** <br/>
+Modern toolkit for building native Android UI <br/>
+https://developer.android.com/jetpack/compose/tutorial
+
 **Kotlin Tutorials:** <br/>
 https://www.programiz.com/kotlin-programming
 
@@ -109,7 +113,7 @@ https://medium.com/skillhive/android-google-places-autocomplete-feature-bb306430
  https://stackoverflow.com/questions/19353255/how-to-put-google-maps-v2-on-a-fragment-using-viewpager
  https://medium.com/@droidbyme/get-current-location-using-fusedlocationproviderclient-in-android-cb7ebf5ab88e
 
-**COIL (Best Image Loading Library for Android)** <br/>
+**COIL (Best Image Loading Library for Kotlin Android)** <br/>
 https://coil-kt.github.io/coil/getting_started/
 
 **Android Codelabs** <br/>
@@ -117,7 +121,8 @@ https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0 <br/>
 https://codelabs.developers.google.com/codelabs/android-navigation/#0 <br/>
 https://codelabs.developers.google.com/codelabs/android-databinding/#0 <br/>
 https://codelabs.developers.google.com/codelabs/motion-layout/#0 <br/>
-https://codelabs.developers.google.com/codelabs/android-paging/#0
+https://codelabs.developers.google.com/codelabs/android-paging/#0 <br/>
+https://codelabs.developers.google.com/codelabs/jetpack-compose-basics/#0 
 
 **Gradle** <br/>
 https://blog.mindorks.com/gradle-for-android-developers-getting-the-most-of-it?fbclid=IwAR0bfmBEkrLq9zTNvI-v9n3VTIsdGni5BSMWOu8agGVMKknFkvWVYPLFYdw
@@ -129,7 +134,6 @@ https://riggaroo.dev/getting-started-with-the-motion-editor-in-android-studio-4-
 **Shared Viewmodel and Viewmodel Factory** <br/>
 https://blog.mindorks.com/shared-viewmodel-in-android-shared-between-fragments<br/>
 https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide<br/>
-
 
 **Android Testing related stuff** <br/>
 https://www.youtube.com/watch?v=gJPclNjOwP8<br/>
