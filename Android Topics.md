@@ -15,7 +15,8 @@ https://android-developers.googleblog.com/2018/05/use-android-jetpack-to-acceler
 
 **Jetpack Compose:** <br/>
 Modern toolkit for building native Android UI <br/>
-https://developer.android.com/jetpack/compose/tutorial
+https://developer.android.com/jetpack/compose/tutorial <br/>
+https://www.youtube.com/watch?v=JdTtRkT03gY
 
 **Kotlin Tutorials:** <br/>
 https://www.programiz.com/kotlin-programming
@@ -38,6 +39,7 @@ A complete guide to Android Architecture MVVM + Repository pattern and Livedata
  
  **Dagger HILT:** <br/>
 https://blog.mindorks.com/dagger-hilt-tutorial <br/>
+https://www.youtube.com/watch?v=zTpM2olXCok&list=PLgCYzUzKIBE_MUlyvbCiOWsfq0nFgGXQ9
 
 **Kotlin Coroutines** <br/>
 https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0 <br/>
