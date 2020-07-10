@@ -128,7 +128,8 @@ https://codelabs.developers.google.com/codelabs/android-navigation/#0 <br/>
 https://codelabs.developers.google.com/codelabs/android-databinding/#0 <br/>
 https://codelabs.developers.google.com/codelabs/motion-layout/#0 <br/>
 https://codelabs.developers.google.com/codelabs/android-paging/#0 <br/>
-https://codelabs.developers.google.com/codelabs/jetpack-compose-basics/#0 
+https://codelabs.developers.google.com/codelabs/jetpack-compose-basics/#0 <br/>
+https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-basics/index.html?index=..%2F..index#0
 
 **Gradle** <br/>
 https://blog.mindorks.com/gradle-for-android-developers-getting-the-most-of-it?fbclid=IwAR0bfmBEkrLq9zTNvI-v9n3VTIsdGni5BSMWOu8agGVMKknFkvWVYPLFYdw
