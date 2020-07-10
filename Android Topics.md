@@ -21,6 +21,10 @@ https://www.youtube.com/watch?v=JdTtRkT03gY
 **Kotlin Tutorials:** <br/>
 https://www.programiz.com/kotlin-programming
 
+**Clean Architecture : ** <br/>
+https://www.youtube.com/watch?v=NyJLw3sc17M&t=395s <br/>
+https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started
+
 **Android Navigation Component:** <br/>
 A part of Android jetpack. The idea behind that is to implement the architecture prefered by Google Android
 https://www.youtube.com/watch?v=IEO2X5OU3MY <br/>
