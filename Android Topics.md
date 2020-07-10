@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=JdTtRkT03gY
 **Kotlin Tutorials:** <br/>
 https://www.programiz.com/kotlin-programming
 
-**Clean Architecture : ** <br/>
+**Clean Architecture Android:** <br/>
 https://www.youtube.com/watch?v=NyJLw3sc17M&t=395s <br/>
 https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started
 
