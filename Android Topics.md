@@ -145,3 +145,6 @@ https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-
 **Android Testing related stuff** <br/>
 https://www.youtube.com/watch?v=gJPclNjOwP8<br/>
 https://codingwithmitch.com/courses/ui-testing-for-beginners/demo/
+
+**Flutter Plateform Channels** <br/>
+https://medium.com/47billion/creating-a-bridge-in-flutter-between-dart-and-native-code-in-java-or-objectivec-5f80fd0cd713 <br/>
