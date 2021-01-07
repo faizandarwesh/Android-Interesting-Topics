@@ -1,5 +1,5 @@
 # Android-Interesting-Topics
-The topics that i found interesting and essential for Android Developers to learn
+The topics that i found interesting and essential for Android/Flutter Developers to learn
 
 **Pathway for Professional Android Developer** <br/>
 https://github.com/mobile-roadmap/android-developer-roadmap<br/>
@@ -15,8 +15,19 @@ https://android-developers.googleblog.com/2018/05/use-android-jetpack-to-acceler
 
 **Jetpack Compose:** <br/>
 Modern toolkit for building native Android UI <br/>
+https://www.raywenderlich.com/15361077-jetpack-compose-tutorial-for-android-getting-started <br/>
 https://developer.android.com/jetpack/compose/tutorial <br/>
 https://www.youtube.com/watch?v=JdTtRkT03gY
+
+
+**Jetpack DataStore:** <br/>
+https://www.raywenderlich.com/18348259-datastore-tutorial-for-android-getting-started <br/>
+https://blog.mindorks.com/jetpack-datastore-preferences <br/>
+
+**Flow and Channels:** <br/>
+https://www.raywenderlich.com/9799571-kotlin-flow-for-android-getting-started <br/>
+https://blog.mindorks.com/what-is-flow-in-kotlin-and-how-to-use-it-in-android-project <br/>
+https://blog.mindorks.com/creating-flow-using-flow-builder-in-kotlin <br/>
 
 **Kotlin Tutorials:** <br/>
 https://www.programiz.com/kotlin-programming
