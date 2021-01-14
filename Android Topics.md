@@ -159,3 +159,12 @@ https://codingwithmitch.com/courses/ui-testing-for-beginners/demo/
 
 **Flutter Plateform Channels** <br/>
 https://medium.com/47billion/creating-a-bridge-in-flutter-between-dart-and-native-code-in-java-or-objectivec-5f80fd0cd713 <br/>
+
+**Basic Concepts** <br/>
+
+**Semaphore** <br/>
+https://www.geeksforgeeks.org/semaphore-in-java/<br/>
+**GOF** <br/>
+https://www.javabrahman.com/design-patterns/gof-gang-four-design-patterns/<br/>
+**SOLID PRINCIPLES<br/>
+https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
